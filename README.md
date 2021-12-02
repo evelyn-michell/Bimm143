@@ -2,7 +2,7 @@
 Bioinformatics class at UC San Diego Fall 2021
 This is a showcase of my work in this class. 
 
-##Contents
+## Contents
 - [4.Bioinformatics data analysis with R](https://github.com/evelyn-michell/Bimm143/blob/main/BIMM%20143-%20class%2004/Class%204.R)
 - [5.Data exploration and visualization in R](https://github.com/evelyn-michell/Bimm143/blob/main/Class%205/Class%205.R)
 - [6.R functions and R packages from CRAN and BioConductor](https://github.com/evelyn-michell/Bimm143/blob/main/Class%206/Class%206%20Functions.Rmd)
