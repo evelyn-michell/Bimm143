@@ -11,7 +11,6 @@ This is a showcase of my work in this class.
 - [10.Halloween Candy Mini-Project](https://github.com/evelyn-michell/Bimm143/blob/main/Class%2010:%20Halloween%20Candy/Halloween%20Candy.Rmd)
 - [11.Structural Bioinformatics](https://github.com/evelyn-michell/Bimm143/blob/main/Class%2011/Class%2011.Rmd)
 - [12.Structural Bioinformatics II](https://github.com/evelyn-michell/Bimm143/blob/main/Class%2011/Class12.Rmd)
-- [13.Essential UNIX for bioinformatics]
 - [15.Transcriptomics and the analysis of RNA-Seq data](https://github.com/evelyn-michell/Bimm143/blob/main/Class15/Class15.Rmd)
 - [16.RNA-Seq analysis mini-project](https://github.com/evelyn-michell/Bimm143/blob/main/Class16/Class16.Rmd)
 - [17.Vaccination rate mini project](https://github.com/evelyn-michell/Bimm143/blob/main/Class17/Class17.Rmd)
